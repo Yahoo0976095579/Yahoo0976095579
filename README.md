@@ -1,17 +1,34 @@
-## Hi there 👋
-測試用，未來補全
+## Hi  👋
 
-<!--
-**Yahoo0976095579/Yahoo0976095579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是李柏駿，目前專注於 ASP.NET Core Web API 後端 與Asp.NET Core MVC 開發。  
+持續學習並實作全端專案，致力於提升軟體架構與開發效率。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 目前專案
+
+- 互動式待辦事項管理系統 (Todo List Application)  
+  - 使用 ASP.NET Core Web API、Entity Framework Core  
+  - 前端以原生 HTML、CSS、JavaScript (Bootstrap 5)  
+  - 採用 Controller-Service-Repository 分層架構與依賴注入
+
+---
+
+### 🌱 技術棧
+
+- C# / .NET 8 / EF Core  
+- RESTful API 設計與實作  
+- 非同步程式設計 (async/await)  
+- 資料庫 SQL Server / LocalDB  
+- 前端：JavaScript (fetch)、Bootstrap
+
+---
+
+### 💬 聯絡方式
+
+- Email: yahoo0976095579@gmail.com    
+- GitHub: https://github.com/Yahoo0976095579
+
+---
+
+感謝瀏覽，歡迎聯絡交流！😄
