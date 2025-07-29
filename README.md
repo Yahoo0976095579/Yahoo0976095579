@@ -11,7 +11,11 @@
   - 使用 ASP.NET Core Web API、Entity Framework Core  
   - 前端以原生 HTML、CSS、JavaScript (Bootstrap 5)  
   - 採用 Controller-Service-Repository 分層架構與依賴注入
-
+    
+- 電商後台管理系統
+  - 使用 ASP.NET Core MVC、Entity Framework Core
+  - 採用 Controller-Service-Repository 分層架構與依賴注入
+  - 官方套件Identity+JWT身分驗證與權限管理
 ---
 
 ### 🌱 技術棧
