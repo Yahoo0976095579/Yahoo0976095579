@@ -16,6 +16,13 @@
   - 使用 ASP.NET Core MVC、Entity Framework Core
   - 採用 Controller-Service-Repository 分層架構與依賴注入
   - 官方套件Identity+JWT身分驗證與權限管理
+
+- 記帳網站 (Accounting Web App)  
+  - 前端使用 Vue 3、Vite、Tailwind CSS  
+  - 後端使用 Python Flask  
+  - 資料庫採用 PostgreSQL  
+  - 支援個人與群組記帳、儀表板分析、多條件篩選、即時通知與響應式設計
+  - 前端 部屬於Vercel，後端/資料庫 部屬於Render
 ---
 
 ### 🌱 技術棧
