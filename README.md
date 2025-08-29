@@ -23,6 +23,14 @@
   - 資料庫採用 PostgreSQL  
   - 支援個人與群組記帳、儀表板分析、多條件篩選、即時通知與響應式設計
   - 前端 部屬於Vercel，後端/資料庫 部屬於Render
+
+- 線上點餐系統 (Full-Stack Online Ordering System)
+  - 前端使用 Vue 3 (Vite)、Pinia、Vue Router
+  - 後端使用 ASP.NET Core Web API (C#)
+  - 採用 分層架構 (Controller → Service) 與依賴注入
+  - 功能包含 菜單瀏覽、購物車管理、模擬付款 (現金/信用卡/LINE Pay)、訂單紀錄、客製化提示
+  - 前端部署於 Vercel，後端部署於 Azure App Service
+
 ---
 
 ### 🌱 技術棧
