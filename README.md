@@ -33,13 +33,11 @@
 
 ---
 
-### 🌱 技術棧
+### 🌱 技術棧 (Tech Stack)
 
-- C# / .NET 8 / EF Core  
-- RESTful API 設計與實作  
-- 非同步程式設計 (async/await)  
-- 資料庫 SQL Server / LocalDB  
-- 前端：JavaScript (fetch)、Bootstrap
+- 後端：C#、ASP.NET Core (.NET 8) / Entity Framework Core / RESTful API / SQL Server 
+- 前端：JavaScript (ES6+) / Vue 3 (Vite, Pinia, Vue Router) / Bootstrap 5
+- 部署 / 其他：Azure App Service / Vercel / Render / JWT / Identity 驗證 / Git
 
 ---
 
