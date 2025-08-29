@@ -7,29 +7,17 @@
 
 ### 🔭 目前專案
 
-- 互動式待辦事項管理系統 (Todo List Application)  
-  - 使用 ASP.NET Core Web API、Entity Framework Core  
-  - 前端以原生 HTML、CSS、JavaScript (Bootstrap 5)  
-  - 採用 Controller-Service-Repository 分層架構與依賴注入
-    
-- 電商後台管理系統
-  - 使用 ASP.NET Core MVC、Entity Framework Core
-  - 採用 Controller-Service-Repository 分層架構與依賴注入
-  - 官方套件Identity+JWT身分驗證與權限管理
+- 互動式待辦事項管理系統 (Todo List Application)
+  - 提供待辦清單的新增、編輯、完成與刪除功能，支援響應式介面與基礎的任務管理流程。
 
-- 記帳網站 (Accounting Web App)  
-  - 前端使用 Vue 3、Vite、Tailwind CSS  
-  - 後端使用 Python Flask  
-  - 資料庫採用 PostgreSQL  
-  - 支援個人與群組記帳、儀表板分析、多條件篩選、即時通知與響應式設計
-  - 前端 部屬於Vercel，後端/資料庫 部屬於Render
+- 電商後台管理系統
+  - 具備商品、訂單與用戶管理功能，並整合權限驗證，模擬中小型電商後台的核心流程。
+
+- 記帳網站 (Accounting Web App)
+  - 支援個人與群組記帳，提供儀表板分析、多條件篩選與即時通知，並針對桌機與手機優化介面。
 
 - 線上點餐系統 (Full-Stack Online Ordering System)
-  - 前端使用 Vue 3 (Vite)、Pinia、Vue Router
-  - 後端使用 ASP.NET Core Web API (C#)
-  - 採用 分層架構 (Controller → Service) 與依賴注入
-  - 功能包含 菜單瀏覽、購物車管理、模擬付款 (現金/信用卡/LINE Pay)、訂單紀錄、客製化提示
-  - 前端部署於 Vercel，後端部署於 Azure App Service
+  - 模擬完整的點餐流程，包括菜單瀏覽、購物車、付款與訂單紀錄，帶來貼近實務的使用體驗。
 
 ---
 
